@@ -1,0 +1,15 @@
+﻿Hari,Cuaca,Suhu,Kelembapan,Arah Angin,Play Tennis
+1,cerah,panas,tinggi,stabil,tidak
+2,cerah,panas,tinggi,labil,tidak
+3,mendung,panas,tinggi,stabil,ya
+4,hujan,sedang,tinggi,stabil,ya
+5,hujan,dingin,normal,stabil,ya
+6,hujan,dingin,normal,labil,tidak
+7,mendung,dingin,normal,labil,ya
+8,cerah,dingin,tinggi,stabil,tidak
+9,cerah,dingin,normal,stabil,ya
+10,hujan,sedang,normal,stabil,ya
+11,cerah,sedang,normal,labil,ya
+12,mendung,sedang,tinggi,labil,ya
+13,mendung,panas,normal,stabil,ya
+14,hujan,sedang,tinggi,labil,tidak
