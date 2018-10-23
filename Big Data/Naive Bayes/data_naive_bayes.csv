@@ -1,0 +1,15 @@
+Cuaca;Suhu;Kelembaban;Arah Angin;Play Tennis
+Cerah;Panas;Tinggi;Stabil;Tidak
+Cerah;Panas;Tinggi;Labil;Tidak
+Mendung;Panas;Tinggi;Stabil;Ya
+Hujan;Sedang;Tinggi;Stabil;Ya
+Hujan;Dingin;Normal;Stabil;Ya
+Hujan;Dingin;Normal;Labil;Tidak
+Mendung;Dingin;Normal;Labil;Ya
+Cerah;Dingin;Tinggi;Stabil;Tidak
+Cerah;Dingin;Normal;Stabil;Ya
+Hujan;Sedang;Normal;Stabil;Ya
+Cerah;Sedang;Normal;Labil;Ya
+Mendung;Sedang;Tinggi;Labil;Ya
+Mendung;Panas;Normal;Stabil;Ya
+Hujan;Sedang;Tinggi;Labil;Tidak
