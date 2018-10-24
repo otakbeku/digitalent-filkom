@@ -1,0 +1,10 @@
+# Ignore this #
+*.jpg
+*.png
+*.pdf
+*.pyc
+*.avi
+/.idea/*
+/.__pycache__/*
+/__pycache__/*
+/AI/.ipynb_checkpoints/*
