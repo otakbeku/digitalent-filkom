@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="933af2e2-4ce2-4510-a9b0-cf6959785235" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AI/.ipynb_checkpoints/kNN-Naive-bayes-DCT-SVM-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AI/Implementasi_kNN(1).ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AI/Implementasi_kNN.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AI/Klasifikasi.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AI/iris.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AI/kNN-Naive-bayes-DCT-SVM.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,13 +45,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gitignore" value="9" />
+          <entry key="gitignore" value="13" />
           <entry key="py" value="3014" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="PLAIN_TEXT" value="13" />
           <entry key="Python" value="3014" />
         </counts>
       </usages-collector>
@@ -95,7 +89,7 @@
             <entry file="file://$PROJECT_DIR$/.gitignore">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="207">
-                  <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+                  <caret line="9" selection-start-line="9" selection-end-line="9" />
                 </state>
               </provider>
             </entry>
@@ -397,7 +391,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>

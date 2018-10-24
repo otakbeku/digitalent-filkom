@@ -4,7 +4,7 @@
 *.pdf
 *.pyc
 *.avi
-/.idea/*
-/.__pycache__/*
-/__pycache__/*
-/AI/.ipynb_checkpoints/*
+.idea/*
+.__pycache__/*
+__pycache__/*
+AI/.ipynb_checkpoints/*
